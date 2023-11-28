@@ -3,6 +3,7 @@ Where secrets rest and spirits tease,
 The gentle breeze, a soft embrace,
 Whispers tales of time and space.
 
+<<<<<<< HEAD
 In petals kissed by morning dew,
 The world reveals its vibrant hue,
 A symphony of colors bright,
@@ -17,3 +18,5 @@ Oh, sing with birds on soaring flight,
 Chase the stars that paint the night,
 For in this dance of life's ballet,
 We find our joy along the way
+=======
+>>>>>>> 3478bc57040b2edc4303826d14a6c7f248b30cd6
